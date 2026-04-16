@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 400 560" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="ball-clip">
+      <circle cx="200" cy="195" r="172"/>
+    </clipPath>
+  </defs>
+
+  <!-- 외곽 링 -->
+  <circle cx="200" cy="195" r="192" fill="#3050F0"/>
+  <circle cx="200" cy="195" r="184" fill="#1828D8"/>
+  <circle cx="200" cy="195" r="175" fill="#0407C7"/>
+
+  <!-- 축구공 패치 -->
+  <g clip-path="url(#ball-clip)" stroke="#1020C8" stroke-width="3" fill="#02059a" stroke-linejoin="round">
+    <polygon points="200,105 232,128 220,165 180,165 168,128"/>
+    <polygon points="200,105 168,128 140,110 148,75 178,65 205,78"/>
+    <polygon points="200,105 232,128 260,110 252,75 222,65 195,78"/>
+    <polygon points="168,128 140,110 112,130 115,168 145,182 168,165"/>
+    <polygon points="232,128 260,110 288,130 285,168 255,182 232,165"/>
+    <polygon points="145,182 115,168 108,205 132,228 165,220 180,165 168,165"/>
+    <polygon points="255,182 285,168 292,205 268,228 235,220 220,165 232,165"/>
+    <polygon points="165,220 132,228 145,262 180,272 200,265 220,272 255,262 268,228 235,220 220,165 180,165"/>
+    <polygon points="200,82 158,88 148,58 170,28 200,25 230,28 252,58 242,88 200,82"/>
+    <polygon points="148,75 138,42 108,55 95,88 112,110 140,110"/>
+    <polygon points="252,75 262,42 292,55 305,88 288,110 260,110"/>
+    <polygon points="112,130 82,112 65,145 78,178 108,185 115,168"/>
+    <polygon points="288,130 318,112 335,145 322,178 292,185 285,168"/>
+    <polygon points="78,178 55,205 65,238 98,248 120,228 108,205"/>
+    <polygon points="322,178 345,205 335,238 302,248 280,228 292,205"/>
+    <polygon points="98,248 78,272 95,302 128,308 148,282 120,228"/>
+    <polygon points="302,248 322,272 305,302 272,308 252,282 280,228"/>
+    <polygon points="128,308 108,332 135,355 168,352 180,322 148,282"/>
+    <polygon points="272,308 292,332 265,355 232,352 220,322 252,282"/>
+    <polygon points="168,352 148,372 178,388 200,390 222,388 252,372 232,352 220,322 200,315 180,322"/>
+  </g>
+
+  <!-- 원 테두리 -->
+  <circle cx="200" cy="195" r="175" fill="none" stroke="#1020C8" stroke-width="3"/>
+
+  <!-- P 이니셜 -->
+  <text
+    x="200"
+    y="196"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="148"
+    font-weight="400"
+    fill="#FFFFFF"
+    text-anchor="middle"
+    dominant-baseline="central"
+  >P</text>
+
+  <!-- Ploky -->
+  <text
+    x="200"
+    y="452"
+    font-family="Arial Black, sans-serif"
+    font-size="58"
+    font-weight="900"
+    fill="#0D1260"
+    text-anchor="middle"
+  >Ploky</text>
+
+  <!-- FOOTBALL -->
+  <text
+    x="200"
+    y="498"
+    font-family="Arial, sans-serif"
+    font-size="19"
+    font-weight="500"
+    fill="#1a1a1a"
+    text-anchor="middle"
+    letter-spacing="6"
+  >FOOTBALL</text>
+</svg>
