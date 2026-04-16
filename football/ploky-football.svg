@@ -28,7 +28,7 @@
     font-family="Arial Black, sans-serif"
     font-size="90"
     font-weight="900"
-    letter-spacing="15"
+    letter-spacing="13"
     fill="#0D1260"
     text-anchor="middle"
   >Ploky</text>
@@ -42,7 +42,7 @@
     font-weight="400"
     fill="#333333"
     text-anchor="middle"
-    letter-spacing="15"
+    letter-spacing="14"
   >FOOTBALL</text>
 
 </svg>
