@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 400 480" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 400 420" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <clipPath id="ball-clip">
-      <circle cx="200" cy="190" r="178"/>
+      <circle cx="200" cy="175" r="148"/>
     </clipPath>
   </defs>
 
   <!-- 외곽 링 -->
-  <circle cx="200" cy="190" r="196" fill="#4060F8"/>
-  <circle cx="200" cy="190" r="188" fill="#2040E0"/>
-  <circle cx="200" cy="190" r="178" fill="#0407C7"/>
+  <circle cx="200" cy="175" r="163" fill="#4060F8"/>
+  <circle cx="200" cy="175" r="157" fill="#2040E0"/>
+  <circle cx="200" cy="175" r="148" fill="#0407C7"/>
 
   <!-- 수학적으로 계산된 축구공 패치 — 패치 크기 키우고 서로 맞닿게 -->
   <g clip-path="url(#ball-clip)" stroke="#2535D8" stroke-width="2" fill="#01047A" stroke-linejoin="round">
@@ -50,12 +50,12 @@
   </g>
 
   <!-- 원 테두리 -->
-  <circle cx="200" cy="190" r="178" fill="none" stroke="#3050F0" stroke-width="4"/>
+  <circle cx="200" cy="175" r="148" fill="none" stroke="#3050F0" stroke-width="4"/>
 
   <!-- P 이니셜 — 세련된 굵기 -->
   <text
     x="200"
-    y="192"
+    y="177"
     font-family="Arial, Helvetica, sans-serif"
     font-size="155"
     font-weight="300"
@@ -67,7 +67,7 @@
   <!-- Ploky -->
   <text
     x="200"
-    y="418"
+    y="368"
     font-family="Arial Black, sans-serif"
     font-size="56"
     font-weight="900"
@@ -78,7 +78,7 @@
   <!-- FOOTBALL -->
   <text
     x="200"
-    y="460"
+    y="405"
     font-family="Arial, sans-serif"
     font-size="18"
     font-weight="400"
