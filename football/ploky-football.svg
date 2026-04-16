@@ -26,9 +26,9 @@
     x="200"
     y="415"
     font-family="Arial Black, sans-serif"
-    font-size="64"
+    font-size="72"
     font-weight="900"
-    letter-spacing="4"
+    letter-spacing="14"
     fill="#0D1260"
     text-anchor="middle"
   >Ploky</text>
@@ -38,11 +38,11 @@
     x="200"
     y="462"
     font-family="Arial, sans-serif"
-    font-size="18"
+    font-size="22"
     font-weight="400"
     fill="#333333"
     text-anchor="middle"
-    letter-spacing="5"
+    letter-spacing="16"
   >FOOTBALL</text>
 
 </svg>
