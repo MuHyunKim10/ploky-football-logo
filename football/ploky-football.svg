@@ -24,7 +24,7 @@
   <!-- Ploky -->
   <text
     x="200"
-    y="430"
+    y="440"
     font-family="Arial Black, sans-serif"
     font-size="90"
     font-weight="900"
@@ -36,7 +36,7 @@
   <!-- FOOTBALL -->
   <text
     x="200"
-    y="477"
+    y="487"
     font-family="Arial, sans-serif"
     font-size="40"
     font-weight="400"
