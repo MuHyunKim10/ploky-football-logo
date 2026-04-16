@@ -38,11 +38,11 @@
     x="200"
     y="462"
     font-family="Arial, sans-serif"
-    font-size="50"
+    font-size="40"
     font-weight="400"
     fill="#333333"
     text-anchor="middle"
-    letter-spacing="16"
+    letter-spacing="15"
   >FOOTBALL</text>
 
 </svg>
